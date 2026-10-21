@@ -735,30 +735,6 @@ Iniciativa de exploración tecnológica enfocada en herramientas para organizar 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0:030814,40:0C4A6E,100:0284C7&text=SAFETRACE&fontColor=FFFFFF&fontSize=28&animation=twinkling" alt="Portada SafeTrace" />
-
-</div>
-
-### SafeTrace
-
-**Trazabilidad · Seguridad**
-
-Concepto orientado a explorar la organización de eventos y la consulta estructurada de información.
-
-- Registro de eventos.
-- Seguimiento de operaciones.
-- Consulta de registros.
-- Visualización de información.
-- Apoyo a procesos de análisis.
-
-<img src="https://img.shields.io/badge/ENFOQUE-TRAZABILIDAD%20DIGITAL-38BDF8?style=flat-square&labelColor=0B1220" alt="Enfoque de SafeTrace" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
 
 <div align="center">
 
